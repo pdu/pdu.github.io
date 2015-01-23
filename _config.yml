@@ -1,0 +1,20 @@
+# Site settings
+title: 杜鹏的空间
+email: peng.du.hust[at]gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  一个程序员的思考：游戏开发，前端技术，APP开发，后台开发，分布式系统，
+  算法与数据结构
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pdu.github.io" # the base hostname & protocol for your site
+twitter_username: pengdu
+github_username:  pdu
+paginate: 10
+
+# Build settings
+markdown: kramdown
+
+# time zone
+timezone: Asia/Shanghai
+
+# outputting
+permalink: /:title.html
