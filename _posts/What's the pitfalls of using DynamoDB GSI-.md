@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "What's the pitfalls of using DynamoDB GSI?"
+date:   2016-04-03 11:04:52
+categories: database
+---
+
 # What's the pitfalls of using DynamoDB GSI?
 ## What's DynamoDB GSI?
 - [DynamoDB](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html) is a NoSQL database service of AWS, based on the classic paper of [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
