@@ -4,7 +4,6 @@ title:  "The pitfalls of using DynamoDB GSI"
 date:   2016-04-02 10:00:00
 categories: database
 ---
-# What's the pitfalls of using DynamoDB GSI?
 
 ## What's DynamoDB GSI?
 
